@@ -7,25 +7,25 @@
     display: flex;
 }
 
+.mine{
+    border-radius: 24px;
+    background-color: red;
+}
+
 .blank{
     height: 50px;
     width: 50px;
     border: 1px black solid;
     background-color: lightgray;
+    border-radius: 0px;
 }
 
 .blank2{
 width: 50px;
 height: 50px;
-}
-
-.image{
-    width: 48px;
-    height: 48px;
+background-color: white;
+border-radius: 0px;
 }
 
 
-.mine{
-    border-radius: 24px;
-    background-color: red;
-}
+
